@@ -72,7 +72,7 @@ startup {
         Tuple.Create("The Good Doctor"       ,"campaign/institute/institute_p_"                   ,true ),
         Tuple.Create("The Lockwork Mansion"  ,"campaign/boat/madinventor/boat_madinventor_p"      ,true ),
         Tuple.Create("Another Strange Visit" ,"campaign/void/void_02/void_02_p"                   ,true ),
-        Tuple.Create("The Royal Conservatory","campaign/boat/curator/boat_curator_p"              ,false),
+        Tuple.Create("The Royal Conservatory","campaign/boat/curator/boat_curator_p"              ,true),
         Tuple.Create("Dust District"         ,"campaign/boat/dust/boat_dust_p"                    ,true ),
         Tuple.Create("A Crack in the Slab"   ,"campaign/bunker/bunker_p_lowchaos"                 ,true ),
         Tuple.Create("The Grand Palace"      ,"campaign/boat/duke_palace/boat_palace_p"           ,true ),
